@@ -5,8 +5,8 @@
  */
 
 
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.*;
+
 
 
 class MyStack extends ArrayList<Object>{
